@@ -1,0 +1,10 @@
+According the article by Sean Williams, There are 7 Common Factors that influence Gold Prices. 
+Following is the link to article
+https://www.fool.com/investing/2016/10/13/7-common-factors-that-influence-gold-prices.aspx
+
+These Study consider different parameters that are decsirbe below and try to predict the gold prices using neural network :
+SPDR gold shares ETF
+Yesterday's price of gold
+GDP
+Weighted average of the foreign exchagne value of US
+Inflation
